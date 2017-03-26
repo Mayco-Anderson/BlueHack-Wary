@@ -1,4 +1,4 @@
-# BlueHack-Wary
+# Wary by Dream On BOT
 
 Este projeto apresenta a proposta do grupo Dream On BOT para o IBM Blue Hack 2017
 
@@ -12,7 +12,7 @@ Wary é a mais nova integrante da família TJ BOT, somando sua expertise em gere
  sobre geolocalização, guarde dados sobre as características fisiológicas básicas da pessoa e auxilie os demais ao seu redor no evento de um
  incidente.
  
- Para isso, as seguintes aplicações foram desenvolvidas utilizando os ambientes Node Red + IBM BLueMix.
+ Para isso, as seguintes aplicações foram desenvolvidas utilizando os ambientes Raspberry Pi Node Red + IBM BLueMix.
  
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation.png)
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation2.png)
