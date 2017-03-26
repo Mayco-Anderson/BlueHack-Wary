@@ -1,4 +1,5 @@
 # Wary by Dream On BOT
+  ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/tjBot.png)
 
 Este projeto apresenta a proposta do grupo Dream On BOT para o IBM Blue Hack 2017
 
