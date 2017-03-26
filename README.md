@@ -14,9 +14,18 @@ Wary é a mais nova integrante da família TJ BOT, somando sua expertise em gere
  
  Para isso, as seguintes aplicações foram desenvolvidas utilizando os ambientes Raspberry Pi Node Red + IBM BLueMix.
  
+ ## Conversation
+ 
+Desenvolvemos todo o sistema de chat, identificação de Intent e Entity presentes no serviço de Conversation do Watson para iteragir com nosso usuários de uma maneira não estruturada. 
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation.png)
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation2.png)
+  
+  ## Back end
+  Toda o backed e frontend da aplicação está hospedado no BLuemix. A seguir apresentamos os flows reponsáveis pelo frontend.
+  
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/front-end.png)
+  A seguir, apresentamos o código do backend, onde disponibilizamos end-points 
+ 
   ![alt tag]( https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/otherFlows.png)
  
  Os cuidados de Wary chegam também às mãos dos profissionais da saúde responsáveis pelo acompanhamento clínico desses indivíduos. De maneira
