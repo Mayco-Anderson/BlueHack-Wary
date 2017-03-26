@@ -13,14 +13,10 @@ Wary é a mais nova integrante da família TJ BOT, somando sua expertise em gere
  incidente.
  
  Para isso, as seguintes aplicações foram desenvolvidas utilizando os ambientes Raspberry Pi Node Red + IBM BLueMix.
- 
  ## Conversation
- 
 Desenvolvemos todo o sistema de chat, identificação de Intent e Entity presentes no serviço de Conversation do Watson para iteragir com nosso usuários de uma maneira não estruturada. 
-  
   ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/conversation2.png)
-  
-  ## Node-Red - Bluemix
+  ## Node-Red - Bluemix
   O backend da solução foi desenvolvido utilizando a linguagem JavaScript no Node-Red hospedado no Bluemix. A seguir apresentamos os flows reponsáveis pelo Backend.
   
  ![alt tag](https://github.com/Mayco-Anderson/BlueHack-Wary/blob/master/backend.png)
